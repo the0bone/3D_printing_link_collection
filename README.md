@@ -9,6 +9,8 @@ https://www.prusaprinters.org/
 http://www.stlfinder.com  
 http://3Dmag.org  
 https://libre3d.com/  
+https://3dprint.nih.gov/  
+https://library.zortrax.com/  
 
 ## free and paid 3D Models for printing
 http://www.cgtrader.com  
@@ -16,6 +18,9 @@ https://Cults3d.com
 http://www.3dshook.com  
 http://www.Do3d.com  
 http://www.yeggi.com/  
+https://3d-gallery.xyzprinting.com/en-US/promotion  
+https://3dkitbash.com/  
+https://fab365.net/  
 
 ## Slicer Software
 https://ultimaker.com/software/ultimaker-cura  
@@ -46,17 +51,7 @@ https://www.youmagine.com/
 http://threedscans.com/  
 
 https://3d.si.edu/  
-https://3d-gallery.xyzprinting.com/en-US/promotion  
-https://3dkitbash.com/  
-https://3dprint.nih.gov/  
-https://digilab.dremel.com/resources/lesson-plans  
-https://dtrstudio3d.wixsite.com/website  
-https://evermotion.org/downloads/  
-https://fab365.net/  
-https://free3d.com/  
 https://grabcad.com/  
-https://library.zortrax.com/  
-https://nasa3d.arc.nasa.gov/models
 https://pinshape.com/  
 https://polar3d.com/  
 https://repables.com/  
