@@ -2,14 +2,17 @@
 
 Useful for beginners as well sometimes for advanced priners.
 
-## Main Resources for free 3D Model files
+## Resources for free 3D Model files for printing
 https://thangs.com  
 https://thingiverse.com  
 https://www.prusaprinters.org/  
 http://www.stlfinder.com  
+http://3Dmag.org  
 
-## free and paid 3D Models
+## free and paid 3D Models for printing
 http://www.cgtrader.com  
+http://www.3dshook.com  
+http://www.Do3d.com  
 
 ## Slicer Software
 https://ultimaker.com/software/ultimaker-cura  
@@ -24,20 +27,17 @@ https://mango3d.io/ (Resin only)
 ## 3D Modeling Software
 https://www.autodesk.com/products/fusion-360/overview  
 
-## Rest in Alphabetic order (to be sorted into the other groups)
-http://3ddigitaldoubles.com/  
-http://3Dmag.org  
+## Lithophane
 http://3dp.rocks/lithophane/  
-http://instructables.com/  
-http://threedscans.com/  
-http://www.3dcadbrowser.com  
-http://www.3dexport.com/  
-http://www.3dmodelfree.com/  
-http://www.3dshook.com  
-http://www.archive3d.net  
-http://www.Do3d.com  
-http://www.Gumroad.com  
 http://www.itslitho.com  
+
+## Makerspace (DIY Projects)
+http://instructables.com/  
+
+
+
+## Rest in Alphabetic order (to be sorted into the other groups)
+http://threedscans.com/  
 http://www.open3dmodel.com  
 http://www.rinkak-services.com/en/  
 http://www.shapetizer.com  
