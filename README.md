@@ -3,11 +3,13 @@
 Useful for beginners as well sometimes for advanced printers.  
 These links are being provided as a convenience and for informational purposes only. TheI do not bear any responsibility for the accuracy, legality or content of the external site or for that of subsequent links. Contact the external site for answers to questions regarding its content.
 
+Over all pages here are internet search engines very useful and YouTube is awesome with Tutorials for everything.
+
 ## Resources for free 3D Model files for printing
-https://thangs.com  
-https://thingiverse.com  
-https://www.prusaprinters.org/  
-http://www.stlfinder.com  
+[Thangs - Own Database and Crawler for other pages](https://thangs.com)  
+[Prusa Printers is a database for free 3D Models](https://www.prusaprinters.org/)  
+[Thingiverse the mother of all 3D databases (Features sometimes not working properly](https://thingiverse.com)  
+[Crawler for other databases](http://www.stlfinder.com)  
 http://3Dmag.org  
 https://libre3d.com/  
 https://3dprint.nih.gov/  
@@ -15,7 +17,7 @@ https://library.zortrax.com/
 https://3d.si.edu/  
 https://grabcad.com/library  
 https://repables.com/  
-
+https://www.youmagine.com/  
 
 ## free and paid 3D Models for printing
 http://www.cgtrader.com  
@@ -33,23 +35,22 @@ https://www.zsculptors.com
 https://www.redpah.com/  
 https://www.malix3design.com/  
 
-
 ## Slicer Software
-https://ultimaker.com/software/ultimaker-cura  
-https://github.com/prusa3d/PrusaSlicer  
-https://github.com/supermerill/SuperSlicer  
-https://slic3r.org/  
-https://www.simplify3d.com/  
-https://www.raise3d.com/ideamaker/  
-https://www.chitubox.com/ (Resin only)  
-https://mango3d.io/ (Resin only)  
+[Cura](https://ultimaker.com/software/ultimaker-cura)  
+[PrusaSlicer](https://github.com/prusa3d/PrusaSlicer)  
+[SuperSlicer](https://github.com/supermerill/SuperSlicer)  
+[Slic3r](https://slic3r.org/)  
+[Simplify3D](https://www.simplify3d.com/)  
+[Ideamaker](https://www.raise3d.com/ideamaker/)  
+[Chitubox](https://www.chitubox.com/) (Resin only)  
+[Lychee Slicer](https://mango3d.io/) (Resin only)  
 
 ## 3D Modeling Software
-https://www.autodesk.com/products/fusion-360/overview  
-https://www.blender.org/  
-https://www.tinkercad.com/  
-https://www.freecadweb.org/  
-https://www.meshmixer.com/download.html  
+[Fusion360](https://www.autodesk.com/products/fusion-360/overview) (free for Private Use)  
+[Blender](https://www.blender.org/)  
+[TinkerCAD](https://www.tinkercad.com/)  
+[freeCAD](https://www.freecadweb.org/)  
+[MeshMixer](https://www.meshmixer.com/download.html)  
 
 ## Lithophane
 http://3dp.rocks/lithophane/  
@@ -57,12 +58,10 @@ http://www.itslitho.com
 
 ## Makerspace (DIY Projects)
 http://instructables.com/  
-https://www.youmagine.com/  
 
 ## News, Magazine, Knowledge Base
-https://www.all3dp.com/  
-https://help.prusa3d.com/en/materials
-
+[All3DP](https://www.all3dp.com/)  
+[Overview of different Filaments](https://help.prusa3d.com/en/materials)  
 
 ## Rest in Alphabetic order (to be sorted into the other groups)
 http://threedscans.com/  
