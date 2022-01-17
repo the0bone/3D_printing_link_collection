@@ -9,7 +9,7 @@ Over all pages here are internet search engines very useful and YouTube is aweso
 [Thangs - Own Database and Crawler for other pages](https://thangs.com)  
 [Prusa Printers is a database for free 3D Models](https://www.prusaprinters.org/)  
 [Thingiverse the mother of all 3D databases (Features sometimes not working properly](https://thingiverse.com)  
-[Crawler for other databases](http://www.stlfinder.com)  
+[STLfinder is a Crawler for other databases](http://www.stlfinder.com)  
 http://3Dmag.org  
 https://libre3d.com/  
 https://3dprint.nih.gov/  
@@ -20,8 +20,8 @@ https://repables.com/
 https://www.youmagine.com/  
 
 ## free and paid 3D Models for printing
-http://www.cgtrader.com  
-https://Cults3d.com  
+[cgtrader](http://www.cgtrader.com)  
+[Cults](https://Cults3d.com)  
 https://pinshape.com/  
 http://www.3dshook.com  
 http://www.Do3d.com  
@@ -51,6 +51,9 @@ https://www.malix3design.com/
 [TinkerCAD](https://www.tinkercad.com/)  
 [freeCAD](https://www.freecadweb.org/)  
 [MeshMixer](https://www.meshmixer.com/download.html)  
+[Solidworks](https://www.mbcad.de/solidworks-produkte/3dexperience-solidworks-privatlizenz/?fbclid=IwAR0iVw8LB3aDrWFmFiDeiyYulvEdLfl4hzY3s2SKPhZIJnG3nUwIvkwxP4I)  
+[OpenSCAD](https://openscad.org/)  
+
 
 ## Lithophane
 http://3dp.rocks/lithophane/  
@@ -61,7 +64,7 @@ http://instructables.com/
 
 ## News, Magazine, Knowledge Base
 [All3DP](https://www.all3dp.com/)  
-[Overview of different Filaments](https://help.prusa3d.com/en/materials)  
+[Overview of different Filaments on Prusa](https://help.prusa3d.com/en/materials)  
 
 ## Rest in Alphabetic order (to be sorted into the other groups)
 http://threedscans.com/  
