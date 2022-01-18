@@ -46,7 +46,8 @@ https://www.malix3design.com/
 [Lychee Slicer](https://mango3d.io/) (Resin only)  
 
 ## 3D Modeling Software
-[Fusion360](https://www.autodesk.com/products/fusion-360/overview) (free for Private Use)  
+[Fusion360](https://www.autodesk.de/products/fusion-360/personal) (free for Private Use)  
+[Onshape](https://www.onshape.com/en/products/free) (free for Private Use)  
 [Blender](https://www.blender.org/)  
 [TinkerCAD](https://www.tinkercad.com/)  
 [freeCAD](https://www.freecadweb.org/)  
