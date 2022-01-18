@@ -67,6 +67,7 @@ http://instructables.com/
 [All3DP](https://www.all3dp.com/)  
 [Overview of different Filaments on Prusa](https://help.prusa3d.com/en/materials)  
 
-## Rest in Alphabetic order (to be sorted into the other groups)
+## Rest (to be sorted into the other groups)
+[traceparts have 3D models tp be implemented into your designs for reference](https://www.traceparts.com/en)  
 http://threedscans.com/  
 https://polar3d.com/  
