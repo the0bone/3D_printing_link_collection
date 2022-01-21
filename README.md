@@ -18,6 +18,7 @@ https://3d.si.edu/
 https://grabcad.com/library  
 https://repables.com/  
 https://www.youmagine.com/  
+[STLs for Bricks like QMan, Cobi and as well Lego](https://www.ldraw.org/)  
 
 ## free and paid 3D Models for printing
 [cgtrader](http://www.cgtrader.com)  
