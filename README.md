@@ -66,6 +66,15 @@ http://instructables.com/
 ## News, Magazine, Knowledge Base
 [All3DP](https://www.all3dp.com/)  
 [Overview of different Filaments on Prusa](https://help.prusa3d.com/en/materials)  
+https://www.3dprintingpro.info/  
+
+## Firmware and G-Code Reference
+[Marlin](https://marlinfw.org/)  
+[Marlin G-Code Reference](https://marlinfw.org/meta/gcode/)  
+[Klipper](https://www.klipper3d.org/)  
+[Klipper G-Code Reference](https://github.com/Klipper3d/klipper/blob/master/docs/G-Codes.md)  
+[RepRap Firmware](https://configtool.reprapfirmware.org/Start)  
+[RRF G-Code Reference](https://reprap.org/wiki/G-code)  
 
 ## Rest (to be sorted into the other groups)
 [traceparts have 3D models tp be implemented into your designs for reference](https://www.traceparts.com/en)  
