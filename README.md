@@ -23,6 +23,7 @@ https://www.youmagine.com/
 ## free and paid 3D Models for printing
 [cgtrader](http://www.cgtrader.com)  
 [Cults](https://Cults3d.com)  
+[MyMiniFactory](https://www.myminifactory.com/)  
 https://pinshape.com/  
 http://www.3dshook.com  
 http://www.Do3d.com  
