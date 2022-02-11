@@ -36,6 +36,13 @@ https://www.threeding.com/
 https://www.zsculptors.com  
 https://www.redpah.com/  
 https://www.malix3design.com/  
+[Video game and Comic book models](https://www.gambody.com/)  
+
+## Online Miniature Creators for 3D printing (paid)
+https://www.heroforge.com/  
+https://eldritch-foundry.com/  
+https://desktophero3d.com/  
+https://anvl.co/  
 
 ## Slicer Software
 [Cura](https://ultimaker.com/software/ultimaker-cura)  
