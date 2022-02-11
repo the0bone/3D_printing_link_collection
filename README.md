@@ -57,10 +57,11 @@ https://anvl.co/
 ## 3D Modeling Software
 [Fusion360](https://www.autodesk.de/products/fusion-360/personal) (free for Private Use)  
 [Onshape](https://www.onshape.com/en/products/free) (free for Private Use)  
-[Blender](https://www.blender.org/)  
-[TinkerCAD](https://www.tinkercad.com/)  
-[freeCAD](https://www.freecadweb.org/)  
-[MeshMixer](https://www.meshmixer.com/download.html)  
+[Solid Edge](https://solidedge.siemens.com/de/solutions/users/hobbyists-and-makers/) (free for Private Use)  
+[Blender](https://www.blender.org/) (free)  
+[TinkerCAD](https://www.tinkercad.com/) (free)  
+[freeCAD](https://www.freecadweb.org/) (free)  
+[MeshMixer](https://www.meshmixer.com/download.html) (free)  
 [Solidworks](https://www.mbcad.de/solidworks-produkte/3dexperience-solidworks-privatlizenz/?fbclid=IwAR0iVw8LB3aDrWFmFiDeiyYulvEdLfl4hzY3s2SKPhZIJnG3nUwIvkwxP4I)  
 [OpenSCAD](https://openscad.org/)  
 
