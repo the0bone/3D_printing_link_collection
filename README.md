@@ -15,7 +15,7 @@ Over all pages here are internet search engines very useful and YouTube is aweso
 https://3dprint.nih.gov/  
 https://library.zortrax.com/  
 https://3d.si.edu/  
-[gradCAD](https://grabcad.com/library)  
+[grabCAD](https://grabcad.com/library)  
 https://repables.com/  
 https://www.youmagine.com/  
 [STLs for Bricks like QMan, Cobi and as well Lego](https://www.ldraw.org/)  
