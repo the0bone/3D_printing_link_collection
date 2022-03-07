@@ -10,12 +10,12 @@ Over all pages here are internet search engines very useful and YouTube is aweso
 [Prusa Printers is a database for free 3D Models](https://www.prusaprinters.org/)  
 [Thingiverse the mother of all 3D databases (Features sometimes not working properly](https://thingiverse.com)  
 [STLfinder is a Crawler for other databases](http://www.stlfinder.com)  
-http://3Dmag.org  
-https://libre3d.com/  
+[3Dmag](http://3Dmag.org)  
+[Libre3D](https://libre3d.com/)  
 https://3dprint.nih.gov/  
 https://library.zortrax.com/  
 https://3d.si.edu/  
-https://grabcad.com/library  
+[gradCAD](https://grabcad.com/library)  
 https://repables.com/  
 https://www.youmagine.com/  
 [STLs for Bricks like QMan, Cobi and as well Lego](https://www.ldraw.org/)  
@@ -39,7 +39,7 @@ https://www.malix3design.com/
 [Video game and Comic book models](https://www.gambody.com/)  
 
 ## Online Miniature Creators for 3D printing (paid)
-https://www.heroforge.com/  
+[Hero forge](https://www.heroforge.com/)  
 https://eldritch-foundry.com/  
 https://desktophero3d.com/  
 https://anvl.co/  
@@ -65,8 +65,10 @@ https://anvl.co/
 [Solidworks](https://www.mbcad.de/solidworks-produkte/3dexperience-solidworks-privatlizenz/?fbclid=IwAR0iVw8LB3aDrWFmFiDeiyYulvEdLfl4hzY3s2SKPhZIJnG3nUwIvkwxP4I)  
 [OpenSCAD](https://openscad.org/)  
 
+## Mesh Manipulation
+[LuBan](https://www.luban3d.com/) (lithophane, stack, hash, plate, relief, module, and wireframe)  
 
-## Lithophane
+### Lithophane
 http://3dp.rocks/lithophane/  
 http://www.itslitho.com  
 
