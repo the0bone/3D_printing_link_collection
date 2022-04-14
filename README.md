@@ -7,7 +7,7 @@ Over all pages here are internet search engines very useful and YouTube is aweso
 
 ## Resources for free 3D Model files for printing
 [Thangs - Own Database and Crawler for other pages](https://thangs.com)  
-[Prusa Printers is a database for free 3D Models](https://www.prusaprinters.org/)  
+[Printables - Database of high-quality free 3D models](https://www.printables.com/)  
 [Thingiverse the mother of all 3D databases (Features sometimes not working properly](https://thingiverse.com)  
 [STLfinder is a Crawler for other databases](http://www.stlfinder.com)  
 [3Dmag](http://3Dmag.org)  
