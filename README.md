@@ -73,13 +73,17 @@ https://anvl.co/
 http://3dp.rocks/lithophane/  
 http://www.itslitho.com  
 
+## SLA Test and Calibration Prints
+[AmeraLabs Town](https://ameralabs.com/blog/3d-printer-calibration-part/)
+[Siraya Tech](https://siraya.tech/pages/siraya-tech-test-model)
+[XP Validation Matrix](https://github.com/Photonsters/Resin-exposure-finder-v2/releases/tag/BETA_2.1)
+
 ## Makerspace (DIY Projects)
 http://instructables.com/  
 
 ## News, Magazine, Knowledge Base
 [All3DP](https://www.all3dp.com/)  
 [Overview of different Filaments on Prusa](https://help.prusa3d.com/en/materials)  
-https://www.3dprintingpro.info/  
 
 ## Firmware and G-Code Reference
 [Marlin](https://marlinfw.org/)  
